@@ -39,5 +39,4 @@ dependencies {
     compileOnly("com.squareup.okhttp3:okhttp:5.0.0-alpha.11")
     compileOnly("org.jsoup:jsoup:1.15.1")
     compileOnly("io.reactivex:rxjava:1.3.8")
-    compileOnly("com.github.inorichi.injekt:injekt-core:65b0440")
 }
